@@ -11,7 +11,7 @@ I pair technical depth with strategic analysis to identify high-impact opportuni
 * 🖥️  See my portfolio at [Personal Website](http://aswadhardi.vercel.app)
 * ✉️  You can contact me at [aswadhardi@yahoo.com](mailto:aswadhardi@yahoo.com)
 * 🚀  I'm currently working on [AI applications and ML systems](http://aswadhardi.vercel.app/projects)
-* 👥  I'm looking to collaborate on AI applications and ML systems, Business Process Integration, and Optimization
+* 👥  I'm looking to collaborate on Scalable AI applications and ML systems, with optimized latency, throughput, and reliability. 
 
 
 
